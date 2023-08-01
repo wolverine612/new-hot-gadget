@@ -1,0 +1,20 @@
+.navbar-brand img{
+    width: 150px;
+    height: 80px;
+    object-fit: contain;
+}
+.carousel-indicators{
+    bottom: -20px;
+}
+.carousel-indicators [data-bs-target] {
+    width: 35px;
+    height: 9px;
+    padding: 0px;
+    background-color: #FFC107 !important;
+    border: 0;
+    border-radius: 10px;
+
+}
+.carousel-indicators .active{
+    width: 50px;
+}
